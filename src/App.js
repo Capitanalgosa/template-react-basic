@@ -1,7 +1,7 @@
 import './App.css';
 import {Helmet} from "react-helmet";
-import Body from "./components/Content";
 import Navigation from "./components/Navigation"
+import Footer from "./components/Footer"
 import config from "./config";
 function App() {
   return (
@@ -10,9 +10,8 @@ function App() {
         <title>{config.titleSite}</title>
       </Helmet>
       <Navigation />
-      <Body />
+      <Footer />
     </div>
   );
 }
-
 export default App;
