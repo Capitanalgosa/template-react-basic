@@ -1,4 +1,4 @@
-export default function Content() {
+export default function Bodyt() {
     return (
         <div></div>
     )

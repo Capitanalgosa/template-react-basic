@@ -1,6 +1,6 @@
 import './App.css';
 import {Helmet} from "react-helmet";
-import Content from "./components/Content";
+import Body from "./components/Content";
 import Navigation from "./components/Navigation"
 import config from "./config";
 function App() {
@@ -10,7 +10,7 @@ function App() {
         <title>{config.titleSite}</title>
       </Helmet>
       <Navigation />
-      <Content />
+      <Body />
     </div>
   );
 }
