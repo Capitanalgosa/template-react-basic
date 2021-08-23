@@ -3,6 +3,9 @@ import {Helmet} from "react-helmet";
 import Navigation from "./components/Navigation"
 import Footer from "./components/Footer"
 import config from "./config";
+
+/* import BtIcons from './partials/BootstrapIcons'; */
+
 function App() {
   return (
     <div >
