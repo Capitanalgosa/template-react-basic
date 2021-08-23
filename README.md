@@ -11,3 +11,4 @@
 * react-copy-to-clipboard
 * react-helmet
 * react-router-dom
+* bootstrap icons (Embedded)
