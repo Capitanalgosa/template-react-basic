@@ -4,8 +4,8 @@ import Icons from './../partials/Icons'; */
 
 export default function Content() {
     return (
-        <div>
+        <>
             
-        </div>
+        </>
     )
 }

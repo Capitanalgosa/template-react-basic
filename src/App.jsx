@@ -3,6 +3,7 @@ import {Helmet} from "react-helmet";
 import Navigation from "./components/Navigation"
 import Footer from "./components/Footer"
 import config from "./config";
+import Content from "./components/Content";
 
 /* import BtIcons from './partials/BootstrapIcons'; */
 
@@ -13,6 +14,7 @@ function App() {
         <title>{config.titleSite}</title>
       </Helmet>
       <Navigation />
+      <Content />
       <Footer />
     </div>
   );
