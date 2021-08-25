@@ -196,6 +196,438 @@ Icons.Web = function(props) {
     />
   )
 }
+Icons.Hamburger = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.hamburger;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.FriedEgg = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.friedEgg;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Cheese = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.cheese;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Carrot = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.carrot;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Cake = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.cake;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Bread = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.bread;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Beer = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.beer;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Beer2 = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.beer2;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Beer3 = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.beer3;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Donut = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.donut;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Meat = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.meat;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.LolliPop = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.lolliPop;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.IceCream = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.iceCream;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.HotDog = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.hotDog;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.FrenchFries = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.frenchFries;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.MilkShake = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.milkShake;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Picnic = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.picnic;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.spahgetti = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.spaggetti;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Pizza = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.pizza;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Taco = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.taco;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.CoffePot = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.coffePot;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Broccoli = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.broccoli;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.Avocato = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.avocato;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
+Icons.ChineseFood = function(props) {
+  const title = props.title;
+  const src = props.src ? props.src : config.icons.chineseFood;
+  const width = props.width;
+  const height = props.height;
+  const margin = props.margin;
+  const padding = props.padding;
+  return (
+    <Imagen
+      title={title}
+      src={src}
+      width={width}
+      height={height}
+      margin={margin}
+      padding={padding}
+    />
+  )
+}
 export function Imagen(props) {
   const title = props.title;
   const src = props.src ? props.src : config.icons.noIcon;
