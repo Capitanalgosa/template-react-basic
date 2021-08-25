@@ -5,6 +5,8 @@
 
 ## resources
 
+[template react basic](https://github.com/Rick-torrellas/template-react-basic)<br/>
+
 * bootswatch
 * react
 * react-bootstrap
